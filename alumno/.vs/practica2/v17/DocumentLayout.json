@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C344177-1C49-49A1-B01C-017CA74F76D8}|practica2\\practica2.csproj|c:\\users\\paulo\\onedrive\\documentos\\c#\\practica2\\practica2\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C344177-1C49-49A1-B01C-017CA74F76D8}|practica2\\practica2.csproj|solutionrelative:practica2\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C344177-1C49-49A1-B01C-017CA74F76D8}|practica2\\practica2.csproj|C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica2\\practica2\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C344177-1C49-49A1-B01C-017CA74F76D8}|practica2\\practica2.csproj|solutionrelative:practica2\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C344177-1C49-49A1-B01C-017CA74F76D8}|practica2\\practica2.csproj|C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica2\\practica2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C344177-1C49-49A1-B01C-017CA74F76D8}|practica2\\practica2.csproj|solutionrelative:practica2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C344177-1C49-49A1-B01C-017CA74F76D8}|practica2\\practica2.csproj|C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica2\\practica2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C344177-1C49-49A1-B01C-017CA74F76D8}|practica2\\practica2.csproj|solutionrelative:practica2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 181,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica2\\practica2\\Form1.cs",
+              "RelativeDocumentMoniker": "practica2\\Form1.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica2\\practica2\\Form1.cs",
+              "RelativeToolTip": "practica2\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIA1wCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:20:32.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica2\\practica2\\calculadora.cs",
+              "RelativeDocumentMoniker": "practica2\\calculadora.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica2\\practica2\\calculadora.cs",
+              "RelativeToolTip": "practica2\\calculadora.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA2wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:40:05.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculadora.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica2\\practica2\\calculadora.cs",
+              "RelativeDocumentMoniker": "practica2\\calculadora.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\c#\\practica2\\practica2\\calculadora.cs [Dise\u00F1o]",
+              "RelativeToolTip": "practica2\\calculadora.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:24:58.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\C#\\practica2\\practica2\\Form1.cs",
+              "RelativeDocumentMoniker": "practica2\\Form1.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\c#\\practica2\\practica2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "practica2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:37:17.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

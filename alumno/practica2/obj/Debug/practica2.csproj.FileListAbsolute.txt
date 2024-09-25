@@ -1,0 +1,11 @@
+C:\Users\paulo\OneDrive\Documentos\c#\practica2\practica2\bin\Debug\practica2.exe.config
+C:\Users\paulo\OneDrive\Documentos\c#\practica2\practica2\bin\Debug\practica2.exe
+C:\Users\paulo\OneDrive\Documentos\c#\practica2\practica2\bin\Debug\practica2.pdb
+C:\Users\paulo\OneDrive\Documentos\c#\practica2\practica2\obj\Debug\practica2.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\Documentos\c#\practica2\practica2\obj\Debug\practica2.Form1.resources
+C:\Users\paulo\OneDrive\Documentos\c#\practica2\practica2\obj\Debug\practica2.Properties.Resources.resources
+C:\Users\paulo\OneDrive\Documentos\c#\practica2\practica2\obj\Debug\practica2.csproj.GenerateResource.cache
+C:\Users\paulo\OneDrive\Documentos\c#\practica2\practica2\obj\Debug\practica2.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Documentos\c#\practica2\practica2\obj\Debug\practica2.exe
+C:\Users\paulo\OneDrive\Documentos\c#\practica2\practica2\obj\Debug\practica2.pdb
+C:\Users\paulo\OneDrive\Documentos\c#\practica2\practica2\obj\Debug\practica2.calculadora.resources
