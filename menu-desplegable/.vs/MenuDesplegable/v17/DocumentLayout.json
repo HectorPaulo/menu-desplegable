@@ -1,0 +1,400 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventanaveradministrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventanaveradministrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventanaveradministrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventanaveradministrativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventana1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventana1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventanaeliminarprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventanaeliminarprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventanaeliminarprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventanaeliminarprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventanaverprofesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventanaverprofesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventanaverprofesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventanaverprofesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventanamodificarprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventanamodificarprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventanamodificarprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventanamodificarprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventana1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventana2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventana2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventana3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventanamodificaralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventanamodificaralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventanaeliminaralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventanaeliminaralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventanaveralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventanaveralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventanaveralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventanaveralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventanamodificaralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventanamodificaralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|c:\\users\\paulo\\onedrive\\documentos\\csharp\\menudesplegable\\ventanaeliminaralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventanaeliminaralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93259D2D-5592-44A2-B931-22BF1CA4B402}|MenuDesplegable.csproj|solutionrelative:ventana3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ventanaVerAdministrativos.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaVerAdministrativos.cs",
+              "RelativeDocumentMoniker": "ventanaVerAdministrativos.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaVerAdministrativos.cs",
+              "RelativeToolTip": "ventanaVerAdministrativos.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:31:23.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ventanaVerAdministrativos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaVerAdministrativos.cs",
+              "RelativeDocumentMoniker": "ventanaVerAdministrativos.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaVerAdministrativos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ventanaVerAdministrativos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:31:18.73Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ventanaEliminarProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaEliminarProfesor.cs",
+              "RelativeDocumentMoniker": "ventanaEliminarProfesor.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaEliminarProfesor.cs",
+              "RelativeToolTip": "ventanaEliminarProfesor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:30:06.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ventanaEliminarProfesor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaEliminarProfesor.cs",
+              "RelativeDocumentMoniker": "ventanaEliminarProfesor.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaEliminarProfesor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ventanaEliminarProfesor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:30:02.183Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ventanaVerProfesores.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaVerProfesores.cs",
+              "RelativeDocumentMoniker": "ventanaVerProfesores.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaVerProfesores.cs",
+              "RelativeToolTip": "ventanaVerProfesores.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:29:31.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ventanaVerProfesores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaVerProfesores.cs",
+              "RelativeDocumentMoniker": "ventanaVerProfesores.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaVerProfesores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ventanaVerProfesores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:29:27.673Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ventanaModificarProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaModificarProfesor.cs",
+              "RelativeDocumentMoniker": "ventanaModificarProfesor.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaModificarProfesor.cs",
+              "RelativeToolTip": "ventanaModificarProfesor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:29:03.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ventanaModificarProfesor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaModificarProfesor.cs",
+              "RelativeDocumentMoniker": "ventanaModificarProfesor.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaModificarProfesor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ventanaModificarProfesor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:28:58.492Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ventanaVerAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaVerAlumno.cs",
+              "RelativeDocumentMoniker": "ventanaVerAlumno.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaVerAlumno.cs",
+              "RelativeToolTip": "ventanaVerAlumno.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:26:05.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ventanaVerAlumno.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaVerAlumno.cs",
+              "RelativeDocumentMoniker": "ventanaVerAlumno.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaVerAlumno.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ventanaVerAlumno.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:25:56.443Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ventanaModificarAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaModificarAlumno.cs",
+              "RelativeDocumentMoniker": "ventanaModificarAlumno.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaModificarAlumno.cs",
+              "RelativeToolTip": "ventanaModificarAlumno.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:25:25.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ventanaModificarAlumno.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaModificarAlumno.cs",
+              "RelativeDocumentMoniker": "ventanaModificarAlumno.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaModificarAlumno.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ventanaModificarAlumno.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:25:16.497Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ventanaEliminarAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaEliminarAlumno.cs",
+              "RelativeDocumentMoniker": "ventanaEliminarAlumno.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaEliminarAlumno.cs",
+              "RelativeToolTip": "ventanaEliminarAlumno.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:22:04.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ventanaEliminarAlumno.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaEliminarAlumno.cs",
+              "RelativeDocumentMoniker": "ventanaEliminarAlumno.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventanaEliminarAlumno.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ventanaEliminarAlumno.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:21:50.548Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "principal.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\principal.cs",
+              "RelativeDocumentMoniker": "principal.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\principal.cs",
+              "RelativeToolTip": "principal.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAewEsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:19:36.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "alumno.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\alumno.cs",
+              "RelativeDocumentMoniker": "alumno.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\alumno.cs",
+              "RelativeToolTip": "alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:17:17.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ventana1.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana1.cs",
+              "RelativeDocumentMoniker": "ventana1.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana1.cs",
+              "RelativeToolTip": "ventana1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADgvxYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:00:10.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ventana2.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana2.cs",
+              "RelativeDocumentMoniker": "ventana2.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana2.cs",
+              "RelativeToolTip": "ventana2.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:59:24.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ventana3.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana3.cs",
+              "RelativeDocumentMoniker": "ventana3.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana3.cs",
+              "RelativeToolTip": "ventana3.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADgvxoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:54:59.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ventana3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana3.cs",
+              "RelativeDocumentMoniker": "ventana3.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ventana3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:45:28.988Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ventana2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana2.cs",
+              "RelativeDocumentMoniker": "ventana2.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ventana2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:45:20.807Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ventana1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana1.cs",
+              "RelativeDocumentMoniker": "ventana1.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\ventana1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ventana1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:44:52.241Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\principal.cs",
+              "RelativeDocumentMoniker": "principal.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Documentos\\Csharp\\MenuDesplegable\\principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:40:28.352Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
